@@ -5,4 +5,4 @@ nr indeksu - 164344
 Łukasz Bochno\
 Szymon Bieniaszewski\
 Krystian Drząszcz\
-Patryk Bachanek\
+Patryk Bachanek
